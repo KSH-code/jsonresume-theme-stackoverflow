@@ -199,6 +199,15 @@
       ]
     },
     {
+      "name": "배포한 NPM 모듈",
+      "keywords": [
+        "easily-async-await",
+        "easily-js",
+        "easily-handle-error",
+        "easily-expect"
+      ]
+    },
+    {
       "name": "자격증",
       "keywords": [
         "정보처리기능사",
