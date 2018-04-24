@@ -42,6 +42,16 @@
         "내부 MongoDB 클라이언트 라이브러리 제작 (Mongoose 사용)",
         "메시지 발송 프로젝트(v4)",
         "OAuth2 인증 프로젝트"
+      ],
+      "keywords": [
+        "AWS",
+        "Travis-CI",
+        "Node.js",
+        "Mysql",
+        "MongoDB",
+        "RabbitMQ",
+        "Redis",
+        "Github"
       ]
     },
     {
@@ -131,6 +141,62 @@
       "name": "Physics",
       "keywords": [
         "Beginner"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Foodle",
+      "startDate": "2018-01",
+      "endDate": "2018-02",
+      "summary": "해외연수중 만난 친구의 프로젝트를 도와줬다.",
+      "keywords": [
+        "AWS",
+        "Travis-CI",
+        "Node.js",
+        "Mysql"
+      ]
+    },
+    {
+      "name": "ENS",
+      "startDate": "2017-04",
+      "endDate": "2017-08",
+      "summary": "Engineer Network Service<br>엔지어들의 커뮤니티를 만들었다.([우수상]STAC 공모전 출품작)",
+      "keywords": [
+        "Node.js",
+        "Mysql",
+        "ejs"
+      ]
+    }
+  ],
+  "experiences": [
+    {
+      "name": "해커톤",
+      "keywords": [
+        "15회 앱잼",
+        "2018 Seoul Editors Lab[GEN, Google, 미디어오늘]",
+        "14회 앱잼"
+      ]
+    },
+    {
+      "name": "공모전",
+      "keywords": [
+        "STAC 2017"
+      ]
+    },
+    {
+      "name": "스터디 그룹",
+      "keywords": [
+        "1DP[Algorithms](2017-11-20 ~ 2018-01-??)",
+        "Algorithms(2017-09-02 ~ 2017-11-27)"
+      ]
+    },
+    {
+      "name": "자격증",
+      "keywords": [
+        "정보처리기능사",
+        "웹디자인기능사",
+        "ICDL Start Certificate"
       ]
     }
   ]
