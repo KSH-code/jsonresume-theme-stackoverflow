@@ -1,0 +1,137 @@
+{
+  "basics": {
+    "name": "Henry Kim",
+    "label": "Programmer",
+    "picture": "https://avatars3.githubusercontent.com/u/29705162?s=400&u=368d64e9161e335ed0dd0f4d736675217b43833f&v=4",
+    "email": "tjdgnsqn133@gmail.com",
+    "phone": "비밀",
+    "website": "http://ksh-code.tistory.com",
+    "summary": "\"노력한 만큼 좋은 결과물이 만들어진다.\"",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Mapo",
+      "countryCode": "Republic of Korea",
+      "region": "Seoul"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "ksh-code",
+        "url": "http://github.com/ksh-code"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Seonghoon Kim",
+        "url": "https://www.linkedin.com/in/seonghoon-kim-55195915a/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Nurigo",
+      "position": "대리",
+      "website": "http://nurigo.net",
+      "startDate": "2017-12-18",
+      "endDate": "",
+      "summary": "TDD 기반으로 개발<br>작성한 API에 대한 로드테스트",
+      "highlights": [
+        "Node.js 를 사용한 백엔드 API 개발",
+        "내부 Loadtest 라이브러리 제작 (loadtest 사용)",
+        "내부 RabbitMQ 클라이언트 라이브러리 제작 (amqplib 사용)",
+        "내부 MongoDB 클라이언트 라이브러리 제작 (Mongoose 사용)",
+        "메시지 발송 프로젝트(v4)",
+        "OAuth2 인증 프로젝트"
+      ]
+    },
+    {
+      "company": "UDTech",
+      "position": "인턴",
+      "website": "http://udtech.co.kr/udtech/index.do",
+      "startDate": "2017-09-04",
+      "endDate": "2017-11-29",
+      "summary": "안드로이드 개발 및 웹 개발",
+      "highlights": [
+        "기아 전산 플랫폼(GSW) 퍼블리싱 참여"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Highschool",
+      "area": "Smart Contents",
+      "startDate": "2015-09",
+      "endDate": "2018-02"
+    }
+  ],
+  "awards": [
+    {
+      "title": "[최우수상]제 15회 APPJAM",
+      "date": "2018",
+      "awarder": "SK techx, 서울디지털재단, Unity",
+      "summary": "안드로이드 기능 구현 (위도, 경도 계산같은 핵심 로직)(JAVA)"
+    },
+    {
+      "title": "[장려상]제 14회 APPJAM",
+      "date": "2017",
+      "awarder": "SK techx, 서울디지털재단",
+      "summary": "백엔드 API 서버 개발(Node.js)"
+    },
+    {
+      "title": "[우수상]Smarteen App Challenge(STAC)",
+      "date": "2017",
+      "awarder": "SK techx, 중소기업청",
+      "summary": "팀명: ENS<br>웹 프론트 엔드(ejs), 백엔드 API 서버 개발(Node.js)<br><a href=\"https://tacademy.sktechx.com/front/exhibition/viewTopNotice.action?boardType=26&topSeq=118\">수상팀 목록</a>"
+    },
+    {
+      "title": "[최우수상]교내 알고리즘 경진대회",
+      "date": "2016",
+      "awarder": "세명컴퓨터고등학교",
+      "summary": "JAVA 사용"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Develop API Server",
+      "level": "Advanced",
+      "keywords": [
+        "Node.js",
+        "Mongodb"
+      ]
+    },
+    {
+      "name": "DevOps",
+      "level": "Beginner",
+      "keywords": [
+        "Travis CI",
+        "AWS - Github(Webhook)"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Korean",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Algorithms",
+      "keywords": [
+        "Beginner"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "keywords": [
+        "Beginner"
+      ]
+    },
+    {
+      "name": "Physics",
+      "keywords": [
+        "Beginner"
+      ]
+    }
+  ]
+}
