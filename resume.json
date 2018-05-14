@@ -36,12 +36,12 @@
       "endDate": "",
       "summary": "TDD 기반으로 개발<br>작성한 API에 대한 로드테스트",
       "highlights": [
-        "Node.js 를 사용한 백엔드 API 개발",
-        "내부 Loadtest 라이브러리 제작 (loadtest 사용)",
-        "내부 RabbitMQ 클라이언트 라이브러리 제작 (amqplib 사용)",
-        "내부 MongoDB 클라이언트 라이브러리 제작 (Mongoose 사용)",
-        "메시지 발송 프로젝트(v4)",
-        "OAuth2 인증 프로젝트"
+        "메시지 v4 SDK 제작",
+        "내부 Loadtest 라이브러리 제작",
+        "내부 RabbitMQ 클라이언트 라이브러리 제작",
+        "내부 MongoDB 클라이언트 라이브러리 제작",
+        "메시지 v4 프로젝트 참여",
+        "OAuth2 인증 프로젝트 참여"
       ],
       "keywords": [
         "AWS",
@@ -79,25 +79,25 @@
       "title": "[최우수상]제 15회 APPJAM",
       "date": "2018",
       "awarder": "SK techx, 서울디지털재단, Unity",
-      "summary": "안드로이드 기능 구현 (위도, 경도 계산같은 핵심 로직)(JAVA)"
+      "summary": "JAVA"
     },
     {
       "title": "[장려상]제 14회 APPJAM",
       "date": "2017",
       "awarder": "SK techx, 서울디지털재단",
-      "summary": "백엔드 API 서버 개발(Node.js)"
+      "summary": "Node.js, Mysql"
     },
     {
       "title": "[우수상]Smarteen App Challenge(STAC)",
       "date": "2017",
       "awarder": "SK techx, 중소기업청",
-      "summary": "팀명: ENS<br>웹 프론트 엔드(ejs), 백엔드 API 서버 개발(Node.js)<br><a href=\"https://tacademy.sktechx.com/front/exhibition/viewTopNotice.action?boardType=26&topSeq=118\">수상팀 목록</a>"
+      "summary": "Node.js, Mysql, HTML5, CSS3, Javascript, EJS"
     },
     {
       "title": "[최우수상]교내 알고리즘 경진대회",
       "date": "2016",
       "awarder": "세명컴퓨터고등학교",
-      "summary": "JAVA 사용"
+      "summary": "JAVA"
     }
   ],
   "skills": [
@@ -149,7 +149,7 @@
       "name": "Foodle",
       "startDate": "2018-01",
       "endDate": "2018-02",
-      "summary": "해외연수중 만난 친구의 프로젝트를 도와줬다.",
+      "summary": "지인의 프로젝트 참여",
       "keywords": [
         "AWS",
         "Travis-CI",
@@ -161,34 +161,28 @@
       "name": "ENS",
       "startDate": "2017-04",
       "endDate": "2017-08",
-      "summary": "Engineer Network Service<br>엔지어들의 커뮤니티를 만들었다.([우수상]STAC 공모전 출품작)",
+      "summary": "STAC 2017 출품작",
       "keywords": [
         "Node.js",
         "Mysql",
-        "ejs"
+        "HTML5",
+        "CSS3",
+        "Javascript",
+        "EJS"
       ]
     }
   ],
   "experiences": [
     {
-      "name": "해커톤",
+      "name": "대회",
       "keywords": [
+        "Midas Challenge 2018",
+        "Seoul Editors Lab 2018",
         "15회 앱잼",
-        "2018 Seoul Editors Lab[GEN, Google, 미디어오늘]",
-        "14회 앱잼"
-      ]
-    },
-    {
-      "name": "공모전",
-      "keywords": [
-        "STAC 2017"
-      ]
-    },
-    {
-      "name": "경진대회",
-      "keywords": [
-        "국민대학교 고등학생 알고리즘 경진대회(본선)",
-        "세명컴퓨터고등학교 알고리즘 경진대회"
+        "14회 앱잼",
+        "STAC 2017",
+        "세명컴퓨터고등학교 알고리즘 경진대회",
+        "국민대학교 고등학생 알고리즘 경진대회"
       ]
     },
     {
