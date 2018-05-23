@@ -34,14 +34,15 @@
       "website": "http://nurigo.net",
       "startDate": "2017-12-18",
       "endDate": "",
-      "summary": "TDD 기반으로 개발<br>작성한 API에 대한 로드테스트",
+      "summary": "TDD & BDD 기반으로 개발",
       "highlights": [
+        "이미지 서버 프로젝트 참여 (조회, 목록, 삭제)",
         "메시지 v4 SDK 제작",
         "내부 Loadtest 라이브러리 제작",
         "내부 RabbitMQ 클라이언트 라이브러리 제작",
         "내부 MongoDB 클라이언트 라이브러리 제작",
-        "메시지 v4 프로젝트 참여",
-        "OAuth2 인증 프로젝트 참여"
+        "메시지 v4 프로젝트 참여 (메시지 목록, 그룹 메시지 발송, 심플 메시지 발송)",
+        "OAuth2 인증 프로젝트 참여 (authorize, 권한 삭제, 클라이언트 정보 조회, 권한 허가한 클라이언트 정보 조회)"
       ],
       "keywords": [
         "AWS",
@@ -62,7 +63,7 @@
       "endDate": "2017-11-29",
       "summary": "안드로이드 개발 및 웹 개발",
       "highlights": [
-        "기아 전산 플랫폼(GSW) 퍼블리싱 참여"
+        "기아 전산 플랫폼(GSW) 웹 퍼블리싱 참여"
       ]
     }
   ],
@@ -79,19 +80,19 @@
       "title": "[최우수상]제 15회 APPJAM",
       "date": "2018",
       "awarder": "SK techx, 서울디지털재단, Unity",
-      "summary": "JAVA"
+      "summary": "기능 개발 (JAVA)"
     },
     {
       "title": "[장려상]제 14회 APPJAM",
       "date": "2017",
       "awarder": "SK techx, 서울디지털재단",
-      "summary": "Node.js, Mysql"
+      "summary": "WEB Api 개발 (Node.js, Mysql)"
     },
     {
       "title": "[우수상]Smarteen App Challenge(STAC)",
       "date": "2017",
       "awarder": "SK techx, 중소기업청",
-      "summary": "Node.js, Mysql, HTML5, CSS3, Javascript, EJS"
+      "summary": "WEB Api 개발 (Node.js, Mysql, HTML5, CSS3, Javascript, EJS)"
     },
     {
       "title": "[최우수상]교내 알고리즘 경진대회",
@@ -128,7 +129,7 @@
     {
       "name": "Algorithms",
       "keywords": [
-        "Beginner"
+        "Intermediate"
       ]
     },
     {
@@ -188,7 +189,7 @@
     {
       "name": "스터디 그룹",
       "keywords": [
-        "1DP[Algorithms](2017-11-20 ~ 2018-01-??)",
+        "1DP[Algorithms](2017-11-20 ~ 2018-01)",
         "Algorithms(2017-09-02 ~ 2017-11-27)"
       ]
     },
