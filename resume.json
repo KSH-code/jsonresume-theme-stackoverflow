@@ -87,13 +87,13 @@
       "title": "[장려상]제 14회 APPJAM",
       "date": "2017",
       "awarder": "SK techx, 서울디지털재단",
-      "summary": "WEB Api 개발 (Node.js, Mysql)"
+      "summary": "Web API 개발 (Node.js, Mysql)"
     },
     {
       "title": "[우수상]Smarteen App Challenge(STAC)",
       "date": "2017",
       "awarder": "SK techx, 중소기업청",
-      "summary": "WEB Api 개발 (Node.js, Mysql, HTML5, CSS3, Javascript, EJS)"
+      "summary": "Web API 개발 (Node.js, Mysql, HTML5, CSS3, Javascript, EJS)"
     },
     {
       "title": "[최우수상]교내 알고리즘 경진대회",
@@ -178,13 +178,14 @@
     {
       "name": "대회",
       "keywords": [
-        "Midas Challenge 2018",
-        "Seoul Editors Lab 2018",
-        "15회 앱잼",
-        "14회 앱잼",
-        "STAC 2017",
-        "세명컴퓨터고등학교 알고리즘 경진대회",
-        "국민대학교 고등학생 알고리즘 경진대회"
+        "Midas Challenge 2018(5.26 ~ 5.27)",
+        "Seoul Editors Lab 2018(4.13 ~ 4.14)",
+        "15회 앱잼 2018(3.31 ~ 4.01)",
+        "14회 앱잼 2017(12.16 ~ 12.17)",
+        "13회 앱잼 2017(8.12 ~ 8.13)",
+        "STAC 2017(4.04 ~ 11.08)",
+        "세명컴퓨터고등학교 알고리즘 경진대회 2016(11.10)",
+        "국민대학교 고등학생 알고리즘 경진대회 2016(08.19)"
       ]
     },
     {
