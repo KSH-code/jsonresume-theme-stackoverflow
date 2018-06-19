@@ -76,29 +76,59 @@
       "endDate": "2018-02"
     }
   ],
-  "awards": [
+  "대회": [
     {
-      "title": "[최우수상]제 15회 APPJAM",
+      "title": "[본선] KP 지능형 물류 해커톤 2018 (6.15 ~ 6.16)",
+      "awarder": "우정사업본부",
       "date": "2018",
-      "awarder": "SK techx, 서울디지털재단, Unity",
-      "summary": "기능 개발 (JAVA)"
+      "summary": "JAVA"
     },
     {
-      "title": "[장려상]제 14회 APPJAM",
-      "date": "2017",
-      "awarder": "SK techx, 서울디지털재단",
-      "summary": "Web API 개발 (Node.js, Mysql)"
+      "title": "[본선] Midas Challenge 2018(5.26 ~ 5.27)",
+      "awarder": "MIDAS IT",
+      "date": "2018",
+      "summary": "Node.js, HTML5, CSS3, JavaScript, EJS, MongoDB"
     },
     {
-      "title": "[우수상]Smarteen App Challenge(STAC)",
+      "title": "[본선] Seoul Editors Lab 2018(4.13 ~ 4.14)",
+      "awarder": "GEN",
+      "date": "2018",
+      "summary": "Node.js, HTML5, CSS3, JavaScript, EJS, MongoDB"
+    },
+    {
+      "title": "[최우수상] 15회 앱잼 2018(3.31 ~ 4.01)",
+      "awarder": "서울디지털재단",
+      "date": "2018",
+      "summary": "JAVA"
+    },
+    {
+      "title": "[장려상] 14회 앱잼 2017(12.16 ~ 12.17)",
+      "awarder": "서울디지털재단",
       "date": "2017",
+      "summary": "Node.js, HTML5, CSS3, JavaScript, EJS, Mysql"
+    },
+    {
+      "title": "[본선] 13회 앱잼 2017(8.12 ~ 8.13)",
+      "awarder": "서울디지털재단",
+      "date": "2017",
+      "summary": "Node.js, HTML5, CSS3, JavaScript, EJS, Mysql"
+    },
+    {
+      "title": "[우수상] STAC 2017(4.04 ~ 11.08)",
       "awarder": "SK techx, 중소기업청",
-      "summary": "Web API 개발 (Node.js, Mysql, HTML5, CSS3, Javascript, EJS)"
+      "date": "2017",
+      "summary": "Node.js, HTML5, CSS3, JavaScript, EJS, Mysql"
     },
     {
-      "title": "[최우수상]교내 알고리즘 경진대회",
-      "date": "2016",
+      "title": "[최우수상] 세명컴퓨터고등학교 알고리즘 경진대회 2016(11.10)",
       "awarder": "세명컴퓨터고등학교",
+      "date": "2016",
+      "summary": "JAVA"
+    },
+    {
+      "title": "[본선] 국민대학교 고등학생 알고리즘 경진대회 2016(08.19)",
+      "awarder": "국민대학교",
+      "date": "2016",
       "summary": "JAVA"
     }
   ],
@@ -175,19 +205,6 @@
     }
   ],
   "experiences": [
-    {
-      "name": "대회",
-      "keywords": [
-        "Midas Challenge 2018(5.26 ~ 5.27)",
-        "Seoul Editors Lab 2018(4.13 ~ 4.14)",
-        "15회 앱잼 2018(3.31 ~ 4.01)",
-        "14회 앱잼 2017(12.16 ~ 12.17)",
-        "13회 앱잼 2017(8.12 ~ 8.13)",
-        "STAC 2017(4.04 ~ 11.08)",
-        "세명컴퓨터고등학교 알고리즘 경진대회 2016(11.10)",
-        "국민대학교 고등학생 알고리즘 경진대회 2016(08.19)"
-      ]
-    },
     {
       "name": "참가 코딩 테스트",
       "keywords": [
