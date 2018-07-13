@@ -2,7 +2,7 @@
   "basics": {
     "name": "Henry Kim",
     "label": "Programmer",
-    "picture": "https://avatars3.githubusercontent.com/u/29705162?s=400&u=368d64e9161e335ed0dd0f4d736675217b43833f&v=4",
+    "picture": "https://avatars1.githubusercontent.com/u/29705162?s=460&v=4",
     "email": "tjdgnsqn133@gmail.com",
     "phone": "비밀",
     "website": "http://ksh-code.tistory.com",
@@ -36,7 +36,7 @@
       "endDate": "",
       "summary": "TDD & BDD 기반으로 개발",
       "highlights": [
-        "[Cash-v1] 결제수단 등록, 결제, 결제 우선순위 설정, 자동 충전(데몬), 카드 만료 알림(데몬), 자동 출금(데몬), 사업자 정보(등록, 수정, 목록)",
+        "[Cash-v1] 결제수단 등록, 결제, 결제 우선순위 설정, 자동 충전(데몬), 카드 만료 알림(데몬), 출금, 출금 확인(데몬), 사업자 정보(등록, 수정, 목록), 계좌 등록, 계좌 삭제, 사업자 목록(페이지)",
         "[Images-v4] 조회, 목록, 삭제",
         "[SDK] Messages-v4 전용 SDK 제작",
         "[LoadTest] 내부 Loadtest 라이브러리 제작",
