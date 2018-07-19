@@ -845,7 +845,22 @@ ul.courses li:hover {
     	<section id="skills">
     		<div class="item">
     			<h3 class="name">
-    				Develop API Server
+    				Web Frontend
+    			</h3>
+    			 
+    			<div class="level beginner">
+    				<em>Beginner</em>
+    				<div class="bar"></div>
+    			</div>
+    			<ul class="keywords">
+    				<li>React</li>
+    				<li>Redux</li>
+    				<li>Redux-pender</li>
+    			</ul>
+    		</div>
+    		<div class="item">
+    			<h3 class="name">
+    				Rest API Server
     			</h3>
     			 
     			<div class="level advanced">
@@ -899,6 +914,8 @@ ul.courses li:hover {
         	<ul class="keywords">
           	<li>AWS</li>
           	<li>Travis-CI</li>
+          	<li>React</li>
+          	<li>Redux</li>
           	<li>Node.js</li>
           	<li>Mysql</li>
           	<li>MongoDB</li>
@@ -911,14 +928,14 @@ ul.courses li:hover {
               <p><p>TDD & BDD 기반으로 개발</p></p>
             </div>
             <ul class="highlights">
-                <li><p>[Cash-v1] 결제수단 등록, 결제, 결제 우선순위 설정, 자동 충전(데몬), 카드 만료 알림(데몬), 출금, 출금 확인(데몬), 사업자 정보(등록, 수정, 목록), 계좌 등록, 계좌 삭제, 사업자 목록(페이지)</p></li>
-                <li><p>[Images-v4] 조회, 목록, 삭제</p></li>
-                <li><p>[SDK] Messages-v4 전용 SDK 제작</p></li>
-                <li><p>[LoadTest] 내부 Loadtest 라이브러리 제작</p></li>
-                <li><p>[RabbitMQ] 내부 RabbitMQ 클라이언트 라이브러리 제작</p></li>
-                <li><p>[MongoDB] 내부 MongoDB 클라이언트 라이브러리 제작</p></li>
-                <li><p>[Messages-v4] 메시지 목록, 그룹 메시지 발송, 심플 메시지 발송</p></li>
-                <li><p>[OAuth2] Authorize, 권한 삭제, 클라이언트 정보 조회, 권한 허가한 클라이언트 정보 조회</p></li>
+                <li><p><b>MS Cash-v1</b> Node.js 를 사용해서 DAEMON 과 REST API 를 제작했다. Cash MS 프로젝트를 진행하면서 처음으로 React 와 Redux 를 사용해서 페이지를 제작해 보았다.</p></li>
+                <li><p><b>MS Images-v4</b> Node.js 를 사용해서 S3 에 업로드, 조회, 삭제를 하는 REST API 를 제작했다.</p></li>
+                <li><p><b>SDK</b> 사용자(고객)들이 편하게 REST API 를 사용할 수 있도록 SDK 를 제작했다.</p></li>
+                <li><p><b>LoadTest</b> 내부에서 사용하는 Loadtest Client 를 제작했다. 기존에 제공되는 loadtest 를 수정해서 내부에서 loadtest 를 할 수 있도록 했다. 로드테스트는 Jenkins 를 통해 진행되고 있다.</p></li>
+                <li><p><b>RabbitMQ</b> 내부에서 사용하는 RabbitMQ Helper 를 제작했다. Auto recovery, Auto reconnect 와 같은 실서비스에 중요한 기능들을 제작했고, 문제가 생기지 않도록 많은 테스트를 진행했고 또한 기존에 제공하는 기능들을 이용해서 더 많은 데이터를 보낼 수 있도록 변경했다.</p></li>
+                <li><p><b>MongoDB</b> 내부에서 사용하는 Mongodb Connection Helper 를 제작했다. 'mongoose'를 사용했고 기본적인 옵션들만 제공했다.</p></li>
+                <li><p><b>MS Messages-v4</b> Node.js 를 사용해서 DAEMON 과 REST API 를 제작했다. 많은 트래픽이 예상되어서 최적화에 많은 노력을 했고, DB 최적화도 노력했다.</p></li>
+                <li><p><b>MS OAuth2</b> Node.js 를 사용해서 OAuth2 프로토콜을 사용한 인증 서비스를 개발했다. (Oauth2orize, passport, RFC 문서 참고)</p></li>
             </ul>
         	</div>
         </section>
