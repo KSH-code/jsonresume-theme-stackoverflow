@@ -36,6 +36,7 @@
       "endDate": "",
       "summary": "TDD & BDD 기반으로 개발",
       "highlights": [
+        "<b>MS Appstore-v2</b> Node.js 를 사용해서 DAEMON 을 제작했다. React, Redux, Redux-Pender, Jest, Enzyme 을 이용해 TDD 를 적용했고, Material-UI 를 사용함",
         "<b>MS Cash-v1</b> Node.js 를 사용해서 DAEMON 과 REST API 를 제작했다. Cash MS 프로젝트를 진행하면서 처음으로 React 와 Redux 를 사용해서 페이지를 제작해 보았다.",
         "<b>MS Images-v4</b> Node.js 를 사용해서 S3 에 업로드, 조회, 삭제를 하는 REST API 를 제작했다.",
         "<b>SDK</b> 사용자(고객)들이 편하게 REST API 를 사용할 수 있도록 SDK 를 제작했다.",
@@ -79,6 +80,12 @@
     }
   ],
   "대회": [
+    {
+      "title": "[본선] 제1회 경희대학교 전국고등학생 알고리즘 경진대회 (7.27 ~ 8.03)",
+      "awarder": "경희대학교",
+      "date": "2018",
+      "summary": "JAVA"
+    },
     {
       "title": "[본선] KP 지능형 물류 해커톤 2018 (6.15 ~ 6.16)",
       "awarder": "우정사업본부",
@@ -141,7 +148,10 @@
       "keywords": [
         "React",
         "Redux",
-        "Redux-pender"
+        "Redux-pender",
+        "Material-UI",
+        "Jest",
+        "Enzyme"
       ]
     },
     {
